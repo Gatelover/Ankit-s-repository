@@ -1,5 +1,5 @@
 # Ankit-s-repository
-this is my first repositiry
+this is my first repository
 <br>
 Author- Ankit kumar
 <br>
